@@ -11,7 +11,7 @@ Automation Engineer pivoting to AI/ML after 15 years in retail operations. Build
 ## 👨‍💻 Background
 
 **Education:**
-- B.Eng. Automation & Control Engineering, University of Patras (2010)
+- B.Eng. Automation & Control Engineering, Alexander's Technological Institute of Thessaloniki (2010)
 - Thesis: Neural network-based computer vision system for citrus sorting
 - Tech stack (2010): MATLAB, C++, Assembly, embedded systems
 
