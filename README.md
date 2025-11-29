@@ -127,7 +127,7 @@ Following an intensive 10-month self-study program:
 
 ## 📈 GitHub Stats
 
-![Chris's GitHub stats](https://github-readme-stats.vercel.app/api?username=chris-kechagias&show_icons=true&theme=dark)
+![Chris's GitHub stats](https://github-readme-stats.vercel.app/api?username=chris-kechagias&show_icons=true&theme=dark&cache_seconds=7200&v=1)
 
 ---
 
