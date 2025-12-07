@@ -124,11 +124,8 @@ Following an intensive 10-month self-study program:
 - **Open to:** Remote opportunities EU/Worldwide
 
 ---
-
 ## 📈 GitHub Stats
-
-![Chris's GitHub stats](https://github-readme-stats.vercel.app/api?username=chris-kechagias&show_icons=true&theme=dark&cache_seconds=7200&v=1)
-
+![Chris's GitHub stats](https://github-readme-stats.vercel.app/api?username=chris-kechagias&show_icons=true&theme=dark&cache_seconds=7200&v=1&version=2)
 ---
 
 *"The best time to start was 15 years ago. The second best time is now."*
