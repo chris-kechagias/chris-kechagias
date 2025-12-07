@@ -118,7 +118,7 @@ Following an intensive 10-month self-study program:
 
 ## 📫 Let's Connect
 
-- **LinkedIn:** [Your LinkedIn URL]
+- **LinkedIn:** [www.linkedin.com/in/chkechagias]
 - **Email:** ck.chris.kechagias@gmail.com
 - **Location:** Thessaloniki, Greece 🇬🇷
 - **Open to:** Remote opportunities EU/Worldwide
