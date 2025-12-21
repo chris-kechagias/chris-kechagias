@@ -155,11 +155,11 @@ Python · File I/O · Data structures
 ## 🎓 Certifications & Courses
 
 **Completed:**
-- Mathesis Python Programming - University of Patras (Dec 2025)
+- Mathesis Python Programming - University of Patras (Dec 2025) - 99% Final Grade
 - Python Data Structures Bootcamp - Miuul (Nov 2025)
 
 **In Progress:**
-- Data Analysis with Pandas - Udemy (76% complete)
+- Data Analysis with Pandas - Udemy (83% complete)
 - 100 Days of Code: Python Pro Bootcamp - Dr. Angela Yu (1% complete)
 
 **Planned:**
