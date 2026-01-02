@@ -2,170 +2,195 @@
 
 ## 🚀 Career Transition: Retail Manager → AI Engineer
 
-Automation Engineer pivoting to AI/ML after 15 years in retail operations. Building production-ready AI applications and documenting the entire journey.
+Automation engineer pivoting to AI/ML after 15 years in retail operations management. Building AI applications and documenting the journey from retail to engineering.
 
-**Why AI?** Combining my 2012 engineering degree with 2010 AI thesis experience and 15 years of retail domain knowledge to solve real-world problems in inventory management, automation, and AI-powered systems.
+**Why this pivot?** Combining my 2012 engineering degree, 2010 AI thesis background, and 15 years of retail domain expertise to solve real-world problems in inventory management, automation, and AI-powered systems.
 
 ---
 
 ## 👨‍💻 Background
 
 **Education:**
-- B.Eng. Automation & Control Engineering, Alexander's Technological Institute of Thessaloniki (2012)
-- Thesis (2010): Neural network-based computer vision system for citrus sorting
-- Tech stack: MATLAB, C++, Assembly, embedded systems
+- B.Eng. Automation & Control Engineering, Alexander Technological Educational Institute of Thessaloniki (2012)
+- Thesis (2010): Neural network-based computer vision system for citrus sorting using MATLAB
 
 **Professional Experience:**
-- 15 years in retail operations management (fashion/sampling industry)
-- Managed multi-location inventory and supply chains
-- Led operational teams
-- Identified automation opportunities across retail workflows
+- 15 years in retail operations management (H&M, Adidas, Luigi Footwear)
+- Multi-location inventory and supply chain management
+- Team leadership and operational optimization
+- Deep understanding of retail workflows and automation opportunities
 
 **The Pivot:**
-Returning to engineering roots to build the AI systems that can transform the retail industry I know inside-out.
+Returning to my engineering roots to build the AI systems that can transform the retail industry I know from the inside.
 
 ---
 
 ## 🛠️ Current Tech Stack
 
-**Languages:** Python
+**Languages:** Python 3.11+
 
-**Backend:** FastAPI · REST APIs · Pydantic · SQLAlchemy
+**Backend & APIs:** FastAPI · REST APIs · Pydantic · SQLModel
 
-**Databases:** PostgreSQL · JSON
+**Databases:** PostgreSQL · ChromaDB (planned)
 
-**Data:** Pandas · NumPy
+**Data & ML:** Pandas · NumPy · OpenAI API · Anthropic Claude API
 
-**Tools:** Git · GitHub · Docker · Render · VSCode · Anaconda · Obsidian
+**DevOps & Deployment:** Docker · Docker Compose · Git · GitHub · Render · AWS (learning)
 
-**DevOps:** Logging · CI/CD (learning) · AWS (upcoming)
+**Tools:** VSCode · PyCharm · Anaconda · Jupyter · Obsidian · Toggl
 
-**Previous Experience (2010-2012):** MATLAB · C++ · Assembly · Control Systems
+**Testing & Quality:** pytest · Logging · Professional documentation
+
+**Previous (2010-2012):** MATLAB · C++ · Assembly · Control Systems · Embedded Systems
 
 ---
 
 ## 📚 Learning Roadmap (Nov 2025 - Sep 2026)
 
-Following an intensive 10-month self-study program with realistic time constraints (13-18h/week while working full-time):
+Following a structured 10-month self-study program (17-18h/week while working full-time):
 
-**Phase 0: Foundations** *(Nov 25 - Dec 31, 2025)* 🟢 In Progress
+### **Phase 0: Foundations** *(Nov 25 - Dec 31, 2025)* ✅ **COMPLETE**
 - ✅ Git & GitHub workflows
 - ✅ Python fundamentals & OOP
 - ✅ FastAPI & REST APIs
-- ✅ SQL & PostgreSQL
-- 🔄 Pandas & data analysis
-- 🔄 Testing basics (pytest)
+- ✅ PostgreSQL & SQL
+- ✅ Docker basics
+- ✅ Pandas & data analysis
+- ✅ Testing basics (pytest)
+- ✅ Deployment (Render)
 
-**Phase 1: LLM Engineering** *(Jan 8 - Mar 31, 2026)* ⏳
+### **Phase 1: LLM Engineering** *(Jan 8 - Mar 31, 2026)* ⏳ **Starting Soon**
 - LLM fundamentals (OpenAI, Anthropic APIs)
 - RAG systems (Retrieval-Augmented Generation)
-- Vector databases (Pinecone, ChromaDB)
+- Vector databases (ChromaDB, Pinecone)
 - LangChain & AI Agents
 - LangGraph workflows
-- 6 deployed LLM applications with SQL, Docker, and tests
+- MCP (Model Context Protocol)
+- **Goal:** 6 deployed LLM applications (all with SQL, Docker, tests)
 
-**Phase 2: Production & Cloud** *(Apr 1 - May 31, 2026)* ⏳
+### **Phase 2: Production & Cloud** *(Apr 1 - May 31, 2026)* ⏳
 - AWS (S3, EC2, Lambda, Bedrock)
-- Docker Compose & containerization
+- Advanced Docker & orchestration
 - CI/CD with GitHub Actions
-- Advanced testing & monitoring
-- CloudWatch logging
-- All projects deployed on AWS
+- CloudWatch logging & monitoring
+- Advanced testing & coverage
+- **Goal:** All projects on AWS with CI/CD
 
-**Phase 3: ML Depth (Optional)** *(Jun 1 - Jul 31, 2026)* ⏳
+### **Phase 3: ML Depth** *(Jun 1 - Jul 31, 2026)* ⏳ *Optional*
 - PyTorch fundamentals (Fast.ai)
-- Computer Vision basics
+- Computer Vision
 - Fine-tuning (LoRA)
-- Citrus Sorting 2.0 (rebuild 2010 thesis with modern tools)
+- Citrus Sorting 2.0 (modern remake of 2010 thesis)
 
-**Phase 4: Portfolio & Jobs** *(Aug 1 - Sep 30, 2026)* ⏳
-- Portfolio website with blog
-- Technical writing (3-4 posts)
-- GitHub polish (READMEs, demos)
-- Job applications (50-100 positions)
+### **Phase 4: Portfolio & Jobs** *(Aug 1 - Sep 30, 2026)* ⏳
+- Portfolio website with technical blog
+- GitHub polish & documentation
+- 50-100 job applications
 - Interview preparation
-- Target: Remote AI Engineer role (€40-60k)
+- **Target:** Remote AI Engineer role
 
 ---
 
 ## 🚀 Projects
 
-### ✅ Completed & Deployed
+### ✅ **Phase 0 Projects (Deployed)**
 
-**[Retail Inventory API](https://github.com/chris-kechagias/retail-inventory-api)** - Production REST API  
-FastAPI · Pydantic · Three-tier architecture · Professional logging  
-*Full CRUD operations, deployed on Render with comprehensive documentation*
+**[Retail Product Inventory API](https://github.com/chris-kechagias/retail-inventory-api)** | [Live Demo](https://retail-inventory-api-chris.onrender.com/docs)  
+`FastAPI` `PostgreSQL` `SQLModel` `Docker` `Pydantic`
 
-**[Inventory Tracker CLI](https://github.com/chris-kechagias/inventory-tracker-cli.git)** - Command-line inventory management tool  
-Python · File I/O · Data structures  
-*First project applying Python fundamentals*
+REST API for retail inventory management with complete CRUD operations. Migrated from JSON to PostgreSQL, deployed on Render with comprehensive documentation.
+- Database-backed architecture
+- Full API documentation (Swagger)
+- Logging infrastructure
+- Docker containerization
+- Code collaboration with senior developer at Blick
 
+**[Inventory Tracker CLI](https://github.com/chris-kechagias/inventory-tracker-cli)**  
+`Python` `File I/O` `CLI`
 
-### ⏳ Coming Soon (Phase 1)
+Command-line tool for inventory management. First project applying Python fundamentals to real-world retail operations.
 
-**Simple LLM Chatbot** - FastAPI backend with chat history (PostgreSQL, Docker)
+---
 
-**Retail Assistant Chatbot** - AI assistant for product queries with RAG
+### ⏳ **Phase 1 Projects (Planned - Starting Jan 8)**
 
-**Document Q&A System** - PDF/text processing with vector embeddings
+**Simple LLM Chatbot** - FastAPI backend with OpenAI API integration  
+`FastAPI` `OpenAI API` `PostgreSQL` `Docker` `Streamlit`
 
-**Retail Knowledge Base** - Greek language RAG system for product manuals
+**Retail Assistant Bot** - AI assistant for product queries connecting to inventory API  
+`LangChain` `RAG` `Function Calling` `PostgreSQL`
 
-**Inventory AI Agent** - Multi-tool agent for stock analysis and reordering
+**Document Q&A System** - PDF processing with vector embeddings  
+`ChromaDB` `RAG` `Document Processing` `Embeddings`
 
-**Complex Assistant (LangGraph)** - Multi-step reasoning workflows
+**Retail Knowledge Base** - Greek language RAG system for product manuals  
+`Advanced RAG` `Multilingual NLP` `Vector Search`
 
-### 🎯 Future Projects (Phase 3)
+**Inventory AI Agent** - Multi-tool agent for stock analysis and reordering  
+`LangChain Agents` `Tool Usage` `SQL Integration`
 
-**Citrus Sorting 2.0** - Modern remake of 2010 thesis using PyTorch and OpenCV
+**Complex Assistant (LangGraph)** - Multi-step reasoning workflows  
+`LangGraph` `State Management` `Production Agents`
+
+---
+
+### 🎯 **Phase 3 Projects (Optional)**
+
+**Citrus Sorting 2.0** - Modern remake of 2010 thesis with PyTorch and OpenCV
 
 ---
 
 ## 💡 What Makes Me Different
 
-🎯 **Domain Expertise:** 15 years of retail operations = building AI for problems I've lived  
-🧠 **Engineering Foundation:** Automation degree + AI thesis = understand both theory and implementation  
-📈 **Production-First Mindset:** Every project deployed with proper architecture, not just local demos  
-🌍 **Greek Language AI:** Building systems for underserved Greek market  
-🔄 **Career Changer at 40:** High commitment, clear focus, no dabbling  
-📊 **Cross-Referenced Learning:** Validate decisions across multiple AI models (Claude, ChatGPT, Gemini)
+🎯 **Domain Expertise** - 15 years retail operations: building AI for problems I've lived  
+🧠 **Engineering Foundation** - Automation degree + 2010 AI thesis: theory + implementation  
+🚀 **Deployment Focus** - Every project containerized, deployed, documented  
+🌍 **Greek Language AI** - Building for underserved Greek market  
+🔄 **Career Changer at 40** - High commitment, laser focus, proven execution  
+📊 **Methodical Approach** - Cross-referenced learning, meticulous time tracking, realistic planning
 
 ---
 
-## 📊 Current Progress
+## 📊 Current Status (Jan 2, 2026)
 
-**Phase 0 Status:**
-- ✅ Git workflows mastered
-- ✅ Python fundamentals solid
-- ✅ FastAPI production deployment
-- ✅ Three-tier architecture implemented
-- ✅ Professional documentation practices
-- 🔄 OOP theory complete, practice ongoing
-- 🔄 SQL integration in progress
-- 🔄 Pandas 76% → 100% (by Dec 22)
+**Phase 0: COMPLETE ✅** (Finished Dec 27, 2025 - 4 days ahead of schedule)
+
+**Recent Milestones:**
+- Completed Pandas certificate (19.5 hours, 100%)
+- Earned Docker Foundations Professional Certificate
+- Deployed Retail API v2 with PostgreSQL
+- Published v1.0.0 release with comprehensive documentation
 
 **Study Stats:**
-- Weekly hours: 13-18h (while working full-time)
-- Projects completed: 3
-- Certificates earned: 2 
-- GitHub repos: 4 public repositories
+- Weekly hours: 17-18h (while working full-time)
+- Phase 0 projects: 3 completed, 1 deployed live
+- Certificates earned: 6
+- GitHub repos: 4 public (all with professional READMEs)
+- Next: Phase 1 starts Jan 8, 2026
 
 ---
 
-## 🎓 Certifications & Courses
+## 🎓 Certifications
 
-**Completed:**
-- Mathesis Python Programming - University of Patras (Dec 2025) - 99% Final Grade
-- Python Data Structures Bootcamp - Miuul (Nov 2025)
+**Completed (6 total):**
+- Docker Foundations Professional Certificate - LinkedIn Learning + Docker (Dec 2025)
+- OpenAI API for Python Developers - LinkedIn Learning (Dec 2025)
+- Data Analysis with Pandas and Python - Udemy (Dec 2025)
+- Introduction to Python (CS1.1) - Mathesis/University of Patras (Nov 2025) - 99% grade
+- Learning Docker Compose - LinkedIn Learning (Dec 2025)
+- Python Bootcamp: Data Structures - Miuul (Sep 2025)
 
-**In Progress:**
-- Data Analysis with Pandas - Udemy (83% complete)
-- 100 Days of Code: Python Pro Bootcamp - Dr. Angela Yu (1% complete)
+**In Progress (Phase 1 prep):**
+- Google Gemini API - LinkedIn Learning
+- OpenAI API: Embeddings - LinkedIn Learning
+- OpenAI API: Building Assistants - LinkedIn Learning
+- OpenAI API Agents - LinkedIn Learning
 
 **Planned:**
 - DeepLearning.AI: Generative AI with LLMs (Phase 1)
 - DeepLearning.AI: RAG Specialization (Phase 1)
-- Fast.ai Practical Deep Learning (Phase 3)
+- Kaggle: AI Agents Course (Phase 1)
+- Fast.ai: Practical Deep Learning (Phase 3)
 - AWS Cloud Practitioner (Phase 2)
 
 ---
@@ -188,16 +213,29 @@ Python · File I/O · Data structures
 
 ## 🎯 2026 Goals
 
-- [ ] Complete 10 production-ready AI/ML projects
-- [ ] Deploy applications with Docker & AWS
-- [ ] Master LLM engineering (RAG, agents, fine-tuning)
+- [x] Complete Phase 0: Python, FastAPI, PostgreSQL, Docker fundamentals
+- [ ] Build and deploy 10 AI/ML applications (6 LLM + 4 optional)
+- [ ] Master LLM engineering (RAG systems, agents, fine-tuning)
+- [ ] Deploy all projects with Docker + AWS
+- [ ] Implement CI/CD pipelines
 - [ ] Build Greek-language AI tools (underserved market)
-- [ ] Contribute to AI open source projects
-- [ ] Launch technical blog (3-4 posts)
+- [ ] Launch technical blog with 3-4 posts
 - [ ] Land first AI Engineer role by September 2026
 
 ---
 
-*"The best time to start was 15 years ago. The second best time is now."*
+## 🔄 Current Focus (January 2026)
 
-**Building in public** 🚀 | **Shipping daily** 💻 | **Learning relentlessly** 📝
+**This Week:**
+- Completing remaining LinkedIn Learning certificates (free trial optimization)
+- Preparing development environment for Phase 1
+- Setting up OpenAI/Anthropic API accounts
+
+**Next Phase (Starting Jan 8):**
+Building my first LLM-powered chatbot with FastAPI, OpenAI API, and PostgreSQL. Follow along as I document the journey from retail manager to AI engineer.
+
+---
+
+*"Every expert was once a beginner who didn't quit."*
+
+**Building in public** 🚀 | **Documenting the journey** 📝 | **Shipping real projects** 💻
