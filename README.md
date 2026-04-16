@@ -1,4 +1,4 @@
-[![Header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=12,14,16&text=AI%20Engineer&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Building%20Production%20LLM%20Systems&descAlign=50&descAlignY=55&descSize=20)](https://github.com/chris-kechagias)
+[![Header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=12,14,16&text=AI%20Engineer&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Building%20Production%20LLM%20Systems&descAlign=50&descAlignY=55&descSize=25)](https://github.com/chris-kechagias)
 
 <div align="center">
 
@@ -16,7 +16,7 @@ class AIEngineer:
         self.name = "Chris Kechagias"
         self.role = "AI Engineer"
         self.location = "Thessaloniki, Greece"
-        self.education = "B.Eng. Automation & Control Engineering (2010)"
+        self.education = "B.Eng. Automation & Control Engineering (2012)"
         self.background = "15 years retail operations → AI engineering"
         
         self.expertise = [
@@ -29,8 +29,8 @@ class AIEngineer:
         self.current_projects = {
             "retail_api": "97% test coverage • PostgreSQL • Supabase",
             "chatbot_api": "Dual GPT-5.4 models • Streaming • YAML prompts",
-            "telegram_bot": "Webhook integration • Real-time routing"
-        }
+            "telegram_bot": "Webhook integration • Real-time routing" 
+        } 
     
     def build_production_systems(self):
         return "Deployed APIs • Real-world solutions • Test-driven development"
@@ -47,23 +47,10 @@ class AIEngineer:
 
 <div align="center">
 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=000000)](https://www.python.org/)
-[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=000000)](https://fastapi.tiangolo.com/)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=000000)](https://www.postgresql.org/)
-[![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=000000)](https://www.sqlite.org/)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=000000)](https://www.docker.com/)
-
-[![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white&labelColor=000000)](https://openai.com/)
-[![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logoColor=white&labelColor=000000)](https://www.anthropic.com/)
-[![Google Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white&labelColor=000000)](https://gemini.google.com/)
-[![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white&labelColor=000000)](https://supabase.com/)
-[![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logoColor=white&labelColor=000000)](https://render.com/)
-
-[![Alembic](https://img.shields.io/badge/Alembic-6BA81E?style=for-the-badge&logoColor=white&labelColor=000000)](https://alembic.sqlalchemy.org/)
-[![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white&labelColor=000000)](https://pytest.org/)
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=000000)](https://git-scm.com/)
-[![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=000000)](https://code.visualstudio.com/)
-[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=000000)](https://www.postman.com/)
+|  |  |  |  |  |  |  |
+|--|--|--|--|--|--|--|
+| ![Python](https://techstack-generator.vercel.app/python-icon.svg)  | ![Docker](https://techstack-generator.vercel.app/docker-icon.svg)  | ![PostgreSQL](https://skillicons.dev/icons?i=postgres)  | ![FastAPI](https://skillicons.dev/icons?i=fastapi)  | ![SQLite](https://skillicons.dev/icons?i=sqlite) | ![VSCode](https://skillicons.dev/icons?i=vscode) | ![Supabase](https://skillicons.dev/icons?i=supabase) |
+| <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/openai-light.svg" width="48" height="48" />  | <img src="https://upload.wikimedia.org/wikipedia/commons/b/b0/Claude_AI_symbol.svg" width="48" height="48" /> | <img src="https://www.gstatic.com/lamda/images/gemini_sparkle_v002_d4735304ff6292a690345.svg" width="48" height="48" /> | <img src="https://cdn.brandfetch.io/id8LeMTX5r/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1775457467498" width="48" height="48" /> | <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/uptimerobot.svg" width="48" height="48" />  | <img src="https://icon.icepanel.io/Technology/svg/pytest.svg" width="60" height="60" /> | ![Git](https://skillicons.dev/icons?i=git) |
 
 </div>
 
@@ -71,11 +58,10 @@ class AIEngineer:
 
 <div align="center">
 
-[![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logoColor=white&labelColor=000000)](https://www.langchain.com/)
-[![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F00?style=for-the-badge&logoColor=white&labelColor=000000)](https://www.trychroma.com/)
-[![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white&labelColor=000000)](https://www.djangoproject.com/)
-[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=000000)](https://aws.amazon.com/)
-[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=000000)](https://kubernetes.io/)
+|  |  |  |
+|--|--|--|
+| <img src="https://cdn.brandfetch.io/idzf7Sjo28/w/200/h/200/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B" width="48" height="48" /> | <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/chroma.svg" width="48" height="48" /> | <img src="https://cdn.iconscout.com/icon/free/png-512/free-django-icon-svg-download-png-282754.png?f=webp&w=256" width="48" height="48" /> 
+| <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/aws-light.svg" width="48" height="48" /> | ![Kubernetes](https://techstack-generator.vercel.app/kubernetes-icon.svg) | <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48" height="48" /> |
 
 </div>
 
@@ -121,8 +107,8 @@ Microservice connecting chatbot API to messaging interface
 
 <div align="center">
 
-[![Docker Professional](https://img.shields.io/badge/Docker_Foundations-Professional_Certificate-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=000000)](https://www.linkedin.com/learning/certificates/displayCertId=YOUR_CERT_ID)
-[![DeepLearning.AI](https://img.shields.io/badge/DeepLearning.AI-Generative_AI_with_LLMs-FF6F00?style=for-the-badge&logo=deeplearning.ai&logoColor=white&labelColor=000000)](https://www.coursera.org/account/accomplishments/verify/YOUR_CERT_ID)
+[![Docker Professional](https://img.shields.io/badge/Docker_Foundations-Professional_Certificate-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=000000)](https://www.linkedin.com/learning/certificates/87e6983d741a527148f7c9e9836a69c79835d22ece329fcb6447c9bda2579730)
+[![DeepLearning.AI](https://img.shields.io/badge/DeepLearning.AI-Generative_AI_with_LLMs-FF6F00?style=for-the-badge&logo=deeplearning.ai&logoColor=white&labelColor=000000)](https://learn.deeplearning.ai/certificates/b977138f-31a1-489c-a8cb-519c8a309851)
 
 </div>
 
@@ -171,12 +157,10 @@ Microservice connecting chatbot API to messaging interface
 
 <div align="center">
 
-[![Discord](https://img.shields.io/badge/Discord-chris__kechagias-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=000000)](https://discord.com/users/YOUR_DISCORD_ID)
-[![Gmail](https://img.shields.io/badge/Gmail-ck.chris.kechagias-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:ck.chris.kechagias@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-chkechagias-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://linkedin.com/in/chkechagias)
-[![Dev.to](https://img.shields.io/badge/Dev.to-kris__k-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=000000)](https://dev.to/kris_k)
-[![Medium](https://img.shields.io/badge/Medium-ck.chris.kechagias-12100E?style=for-the-badge&logo=medium&logoColor=white&labelColor=000000)](https://medium.com/@ck.chris.kechagias)
-[![GitHub](https://img.shields.io/badge/GitHub-chris--kechagias-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/chris-kechagias)
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:ck.chris.kechagias@gmail.com)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/chkechagias)
+[![Dev.to](https://skillicons.dev/icons?i=devto)](https://dev.to/kris_k)
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/chris-kechagias)
 
 </div>
 
