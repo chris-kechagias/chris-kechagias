@@ -78,7 +78,8 @@ Production-ready FastAPI application for fashion retail inventory management
 **Highlights:** 97% test coverage • UUID architecture • Auto-generated SKUs • Deployed on Render + Supabase
 
 [![Live API](https://img.shields.io/badge/Live_API-Visit-00D9FF?style=for-the-badge&labelColor=000000)](https://retail-inventory-api-yati.onrender.com/docs)
-[![Article](https://img.shields.io/badge/Read_Article-Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=000000)](https://dev.to/kris_k/restructuring-a-fastapi-project-migrating-to-supabase-and-hitting-97-test-coverage-59eb)
+[![Part 1](https://img.shields.io/badge/Part_1-Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=000000)](https://dev.to/kris_k/why-i-rebuilt-my-first-api-from-scratch-p63)
+[![Part 2](https://img.shields.io/badge/Part_2-Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=000000)](https://dev.to/kris_k/restructuring-a-fastapi-project-migrating-to-supabase-and-hitting-97-test-coverage-59eb)
 
 ---
 
