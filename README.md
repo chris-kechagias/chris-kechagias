@@ -1,241 +1,197 @@
-# Hi, I'm Chris 👋
+[![Header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=12,14,16&text=AI%20Engineer&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Building%20Production%20LLM%20Systems&descAlign=50&descAlignY=55&descSize=20)](https://github.com/chris-kechagias)
 
-## 🚀 Career Transition: Retail Manager → AI Engineer
+<div align="center">
 
-Automation engineer pivoting to AI/ML after 15 years in retail operations management. Building AI applications and documenting the journey from retail to engineering.
+![Coding Animation](https://i.imgur.com/dsS94KQ.png)
 
-**Why this pivot?** Combining my 2012 engineering degree, 2010 AI thesis background, and 15 years of retail domain expertise to solve real-world problems in inventory management, automation, and AI-powered systems.
-
----
-
-## 👨‍💻 Background
-
-**Education:**
-- B.Eng. Automation & Control Engineering, Alexander Technological Educational Institute of Thessaloniki (2012)
-- Thesis (2010): Neural network-based computer vision system for citrus sorting using MATLAB
-
-**Professional Experience:**
-- 15 years in retail operations management (H&M, Adidas, Luigi Footwear)
-- Multi-location inventory and supply chain management
-- Team leadership and operational optimization
-- Deep understanding of retail workflows and automation opportunities
-
-**The Pivot:**
-Returning to my engineering roots to build the AI systems that can transform the retail industry I know from the inside.
+</div>
 
 ---
 
-## 🛠️ Current Tech Stack
+## About Me
 
-**Languages:** Python 3.11+
-
-**Backend & APIs:** FastAPI · REST APIs · Pydantic · SQLModel
-
-**Databases:** PostgreSQL · ChromaDB (planned)
-
-**Data & ML:** Pandas · NumPy · OpenAI API · Anthropic Claude API
-
-**DevOps & Deployment:** Docker · Docker Compose · Git · GitHub · Render · AWS (learning)
-
-**Tools:** VSCode · PyCharm · Anaconda · Jupyter · Obsidian · Toggl
-
-**Testing & Quality:** pytest · Logging · Professional documentation
-
-**Previous (2010-2012):** MATLAB · C++ · Assembly · Control Systems · Embedded Systems
-
----
-
-## 📚 Learning Roadmap (Nov 2025 - Sep 2026)
-
-Following a structured 10-month self-study program (17-18h/week while working full-time):
-
-### **Phase 0: Foundations** *(Nov 25 - Dec 31, 2025)* ✅ **COMPLETE**
-- ✅ Git & GitHub workflows
-- ✅ Python fundamentals & OOP
-- ✅ FastAPI & REST APIs
-- ✅ PostgreSQL & SQL
-- ✅ Docker basics
-- ✅ Pandas & data analysis
-- ✅ Testing basics (pytest)
-- ✅ Deployment (Render)
-
-### **Phase 1: LLM Engineering** *(Jan 8 - Mar 31, 2026)* ⏳ **Starting Soon**
-- LLM fundamentals (OpenAI, Anthropic APIs)
-- RAG systems (Retrieval-Augmented Generation)
-- Vector databases (ChromaDB, Pinecone)
-- LangChain & AI Agents
-- LangGraph workflows
-- MCP (Model Context Protocol)
-- **Goal:** 6 deployed LLM applications (all with SQL, Docker, tests)
-
-### **Phase 2: Production & Cloud** *(Apr 1 - May 31, 2026)* ⏳
-- AWS (S3, EC2, Lambda, Bedrock)
-- Advanced Docker & orchestration
-- CI/CD with GitHub Actions
-- CloudWatch logging & monitoring
-- Advanced testing & coverage
-- **Goal:** All projects on AWS with CI/CD
-
-### **Phase 3: ML Depth** *(Jun 1 - Jul 31, 2026)* ⏳ *Optional*
-- PyTorch fundamentals (Fast.ai)
-- Computer Vision
-- Fine-tuning (LoRA)
-- Citrus Sorting 2.0 (modern remake of 2010 thesis)
-
-### **Phase 4: Portfolio & Jobs** *(Aug 1 - Sep 30, 2026)* ⏳
-- Portfolio website with technical blog
-- GitHub polish & documentation
-- 50-100 job applications
-- Interview preparation
-- **Target:** Remote AI Engineer role
+```python
+class AIEngineer:
+    def __init__(self):
+        self.name = "Chris Kechagias"
+        self.role = "AI Engineer"
+        self.location = "Thessaloniki, Greece"
+        self.education = "B.Eng. Automation & Control Engineering (2010)"
+        self.background = "15 years retail operations → AI engineering"
+        
+        self.expertise = [
+            "LLM Application Development",
+            "FastAPI Backend Systems",
+            "Production Deployment & Testing",
+            "Prompt Engineering & Modular Design"
+        ]
+        
+        self.current_projects = {
+            "retail_api": "97% test coverage • PostgreSQL • Supabase",
+            "chatbot_api": "Dual GPT-5.4 models • Streaming • YAML prompts",
+            "telegram_bot": "Webhook integration • Real-time routing"
+        }
+    
+    def build_production_systems(self):
+        return "Deployed APIs • Real-world solutions • Test-driven development"
+    
+    def get_philosophy(self):
+        return "Build, deploy, iterate. Production over perfection."
+```
 
 ---
 
-## 🚀 Projects
+## Tech Arsenal
 
-### ✅ **Phase 0 Projects (Deployed)**
+**Current Stack**
 
-**[Retail Product Inventory API](https://github.com/chris-kechagias/retail-inventory-api)** | [Live Demo](https://retail-inventory-api-chris.onrender.com/docs)  
-`FastAPI` `PostgreSQL` `SQLModel` `Docker` `Pydantic`
+<div align="center">
 
-REST API for retail inventory management with complete CRUD operations. Migrated from JSON to PostgreSQL, deployed on Render with comprehensive documentation.
-- Database-backed architecture
-- Full API documentation (Swagger)
-- Logging infrastructure
-- Docker containerization
-- Code collaboration with senior developer at Blick
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=000000)](https://www.python.org/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=000000)](https://fastapi.tiangolo.com/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=000000)](https://www.postgresql.org/)
+[![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=000000)](https://www.sqlite.org/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=000000)](https://www.docker.com/)
 
-**[Inventory Tracker CLI](https://github.com/chris-kechagias/inventory-tracker-cli)**  
-`Python` `File I/O` `CLI`
+[![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white&labelColor=000000)](https://openai.com/)
+[![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logoColor=white&labelColor=000000)](https://www.anthropic.com/)
+[![Google Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white&labelColor=000000)](https://gemini.google.com/)
+[![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white&labelColor=000000)](https://supabase.com/)
+[![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logoColor=white&labelColor=000000)](https://render.com/)
 
-Command-line tool for inventory management. First project applying Python fundamentals to real-world retail operations.
+[![Alembic](https://img.shields.io/badge/Alembic-6BA81E?style=for-the-badge&logoColor=white&labelColor=000000)](https://alembic.sqlalchemy.org/)
+[![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white&labelColor=000000)](https://pytest.org/)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=000000)](https://git-scm.com/)
+[![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=000000)](https://code.visualstudio.com/)
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=000000)](https://www.postman.com/)
 
----
+</div>
 
-### ⏳ **Phase 1 Projects (Planned - Starting Jan 8)**
+**Learning & Upcoming**
 
-**Simple LLM Chatbot** - FastAPI backend with OpenAI API integration  
-`FastAPI` `OpenAI API` `PostgreSQL` `Docker` `Streamlit`
+<div align="center">
 
-**Retail Assistant Bot** - AI assistant for product queries connecting to inventory API  
-`LangChain` `RAG` `Function Calling` `PostgreSQL`
+[![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logoColor=white&labelColor=000000)](https://www.langchain.com/)
+[![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F00?style=for-the-badge&logoColor=white&labelColor=000000)](https://www.trychroma.com/)
+[![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white&labelColor=000000)](https://www.djangoproject.com/)
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=000000)](https://aws.amazon.com/)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=000000)](https://kubernetes.io/)
 
-**Document Q&A System** - PDF processing with vector embeddings  
-`ChromaDB` `RAG` `Document Processing` `Embeddings`
-
-**Retail Knowledge Base** - Greek language RAG system for product manuals  
-`Advanced RAG` `Multilingual NLP` `Vector Search`
-
-**Inventory AI Agent** - Multi-tool agent for stock analysis and reordering  
-`LangChain Agents` `Tool Usage` `SQL Integration`
-
-**Complex Assistant (LangGraph)** - Multi-step reasoning workflows  
-`LangGraph` `State Management` `Production Agents`
+</div>
 
 ---
 
-### 🎯 **Phase 3 Projects (Optional)**
+## Featured Projects
 
-**Citrus Sorting 2.0** - Modern remake of 2010 thesis with PyTorch and OpenCV
+<div align="center">
 
----
+### [Retail Inventory API](https://github.com/chris-kechagias/retail-inventory-api)
+Production-ready FastAPI application for fashion retail inventory management
 
-## 💡 What Makes Me Different
+**Tech Stack:** FastAPI • PostgreSQL • SQLModel • Alembic • pytest • Docker  
+**Highlights:** 97% test coverage • UUID architecture • Auto-generated SKUs • Deployed on Render + Supabase
 
-🎯 **Domain Expertise** - 15 years retail operations: building AI for problems I've lived  
-🧠 **Engineering Foundation** - Automation degree + 2010 AI thesis: theory + implementation  
-🚀 **Deployment Focus** - Every project containerized, deployed, documented  
-🌍 **Greek Language AI** - Building for underserved Greek market  
-🔄 **Career Changer at 40** - High commitment, laser focus, proven execution  
-📊 **Methodical Approach** - Cross-referenced learning, meticulous time tracking, realistic planning
+[![Live API](https://img.shields.io/badge/Live_API-Visit-00D9FF?style=for-the-badge&labelColor=000000)](https://retail-inventory-api-yati.onrender.com/docs)
+[![Article](https://img.shields.io/badge/Read_Article-Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=000000)](https://dev.to/kris_k/restructuring-a-fastapi-project-migrating-to-supabase-and-hitting-97-test-coverage-59eb)
 
 ---
 
-## 📊 Current Status (Jan 2, 2026)
+### [Chatbot API](https://github.com/chris-kechagias/chatbot-api)
+Advanced chatbot with modular prompt engineering and dual GPT-5.4 model architecture
 
-**Phase 0: COMPLETE ✅** (Finished Dec 27, 2025 - 4 days ahead of schedule)
+**Tech Stack:** FastAPI • OpenAI API • PostgreSQL • Docker • YAML  
+**Highlights:** Dual models (5.4-mini + 5-nano) • Modular prompts (8 presets) • Streaming responses • Context window management
 
-**Recent Milestones:**
-- Completed Pandas certificate (19.5 hours, 100%)
-- Earned Docker Foundations Professional Certificate
-- Deployed Retail API v2 with PostgreSQL
-- Published v1.0.0 release with comprehensive documentation
-
-**Study Stats:**
-- Weekly hours: 17-18h (while working full-time)
-- Phase 0 projects: 3 completed, 1 deployed live
-- Certificates earned: 6
-- GitHub repos: 4 public (all with professional READMEs)
-- Next: Phase 1 starts Jan 8, 2026
+[![Part 1](https://img.shields.io/badge/Part_1-Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=000000)](https://dev.to/kris_k/building-a-chatbot-api-from-scratch-13-prs-a-lot-of-broken-things-and-a-context-window-that-3i73)
+[![Part 2](https://img.shields.io/badge/Part_2-Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=000000)](https://dev.to/kris_k/building-a-chatbot-api-from-scratch-part-2-streaming-prompt-engineering-and-docker-3cn4)
 
 ---
 
-## 🎓 Certifications
+### Telegram Bot Integration
+Microservice connecting chatbot API to messaging interface
 
-**Completed (6 total):**
-- Docker Foundations Professional Certificate - LinkedIn Learning + Docker (Dec 2025)
-- OpenAI API for Python Developers - LinkedIn Learning (Dec 2025)
-- Data Analysis with Pandas and Python - Udemy (Dec 2025)
-- Introduction to Python (CS1.1) - Mathesis/University of Patras (Nov 2025) - 99% grade
-- Learning Docker Compose - LinkedIn Learning (Dec 2025)
-- Python Bootcamp: Data Structures - Miuul (Sep 2025)
+**Tech Stack:** Telegram Bot API • Ngrok • FastAPI  
+**Highlights:** Webhook-based • Real-time routing • Production deployment
 
-**In Progress (Phase 1 prep):**
-- Google Gemini API - LinkedIn Learning
-- OpenAI API: Embeddings - LinkedIn Learning
-- OpenAI API: Building Assistants - LinkedIn Learning
-- OpenAI API Agents - LinkedIn Learning
-
-**Planned:**
-- DeepLearning.AI: Generative AI with LLMs (Phase 1)
-- DeepLearning.AI: RAG Specialization (Phase 1)
-- Kaggle: AI Agents Course (Phase 1)
-- Fast.ai: Practical Deep Learning (Phase 3)
-- AWS Cloud Practitioner (Phase 2)
+</div>
 
 ---
 
-## 📫 Let's Connect
+## Certifications
 
-- **LinkedIn:** [linkedin.com/in/chkechagias](https://www.linkedin.com/in/chkechagias)
-- **GitHub:** [github.com/chris-kechagias](https://github.com/chris-kechagias)
-- **Email:** ck.chris.kechagias@gmail.com
-- **Location:** Thessaloniki, Greece 🇬🇷
-- **Open to:** Remote AI Engineer positions (EU/Worldwide)
+<div align="center">
 
----
+[![Docker Professional](https://img.shields.io/badge/Docker_Foundations-Professional_Certificate-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=000000)](https://www.linkedin.com/learning/certificates/displayCertId=YOUR_CERT_ID)
+[![DeepLearning.AI](https://img.shields.io/badge/DeepLearning.AI-Generative_AI_with_LLMs-FF6F00?style=for-the-badge&logo=deeplearning.ai&logoColor=white&labelColor=000000)](https://www.coursera.org/account/accomplishments/verify/YOUR_CERT_ID)
 
-## 📈 GitHub Stats
-
-![Chris's GitHub stats](https://github-readme-stats.vercel.app/api?username=chris-kechagias&show_icons=true&theme=dark&cache_seconds=7200)
+</div>
 
 ---
 
-## 🎯 2026 Goals
+## GitHub Stats
 
-- [x] Complete Phase 0: Python, FastAPI, PostgreSQL, Docker fundamentals
-- [ ] Build and deploy 10 AI/ML applications (6 LLM + 4 optional)
-- [ ] Master LLM engineering (RAG systems, agents, fine-tuning)
-- [ ] Deploy all projects with Docker + AWS
-- [ ] Implement CI/CD pipelines
-- [ ] Build Greek-language AI tools (underserved market)
-- [ ] Launch technical blog with 3-4 posts
-- [ ] Land first AI Engineer role by September 2026
+<div align="center">
 
----
+![Chris's GitHub stats](https://github-readme-stats.vercel.app/api?username=chris-kechagias&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&ring_color=58a6ff)
 
-## 🔄 Current Focus (January 2026)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chris-kechagias&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
 
-**This Week:**
-- Completing remaining LinkedIn Learning certificates (free trial optimization)
-- Preparing development environment for Phase 1
-- Setting up OpenAI/Anthropic API accounts
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chris-kechagias&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=1f6feb&currStreakLabel=c9d1d9)
 
-**Next Phase (Starting Jan 8):**
-Building my first LLM-powered chatbot with FastAPI, OpenAI API, and PostgreSQL. Follow along as I document the journey from retail manager to AI engineer.
+</div>
 
 ---
 
-*"Every expert was once a beginner who didn't quit."*
+## Latest Articles
 
-**Building in public** 🚀 | **Documenting the journey** 📝 | **Shipping real projects** 💻
+<div align="center">
+
+- [Building a Chatbot API — Part 2: Streaming, Prompt Engineering and Docker](https://dev.to/kris_k/building-a-chatbot-api-from-scratch-part-2-streaming-prompt-engineering-and-docker-3cn4)
+- [Building a Chatbot API — Part 1: Context Window Management](https://dev.to/kris_k/building-a-chatbot-api-from-scratch-13-prs-a-lot-of-broken-things-and-a-context-window-that-3i73)
+- [Restructuring a FastAPI Project and Hitting 97% Test Coverage](https://dev.to/kris_k/restructuring-a-fastapi-project-migrating-to-supabase-and-hitting-97-test-coverage-59eb)
+- [Why I Rebuilt My First API From Scratch](https://dev.to/kris_k/why-i-rebuilt-my-first-api-from-scratch-p63)
+
+[More articles on Dev.to →](https://dev.to/kris_k)
+
+</div>
+
+---
+
+## Contribution Activity
+
+<div align="center">
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=chris-kechagias&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=c9d1d9)
+
+</div>
+
+---
+
+## Connect With Me
+
+<div align="center">
+
+[![Discord](https://img.shields.io/badge/Discord-chris__kechagias-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=000000)](https://discord.com/users/YOUR_DISCORD_ID)
+[![Gmail](https://img.shields.io/badge/Gmail-ck.chris.kechagias-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:ck.chris.kechagias@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-chkechagias-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://linkedin.com/in/chkechagias)
+[![Dev.to](https://img.shields.io/badge/Dev.to-kris__k-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=000000)](https://dev.to/kris_k)
+[![Medium](https://img.shields.io/badge/Medium-ck.chris.kechagias-12100E?style=for-the-badge&logo=medium&logoColor=white&labelColor=000000)](https://medium.com/@ck.chris.kechagias)
+[![GitHub](https://img.shields.io/badge/GitHub-chris--kechagias-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/chris-kechagias)
+
+</div>
+
+---
+
+<div align="center">
+
+### Currently Building
+
+**RAG Systems • Multi-Agent Architectures • Workflow Automation**
+
+*Building production LLM applications with FastAPI, PostgreSQL, and modern deployment practices*
+
+</div>
+
+---
+
+[![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16&height=120&section=footer)](https://github.com/chris-kechagias)
