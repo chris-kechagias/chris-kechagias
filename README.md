@@ -93,7 +93,7 @@ Advanced chatbot with modular prompt engineering and dual GPT-5.4 model architec
 
 ---
 
-### Telegram Bot Integration
+### [Telegram Bot Integration](https://github.com/chris-kechagias/tele-resolver.git)
 Microservice connecting chatbot API to messaging interface
 
 **Tech Stack:** Telegram Bot API • Ngrok • FastAPI  
