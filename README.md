@@ -1,4 +1,4 @@
-[![Header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=12,14,16&text=AI%20Engineer&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Building%20Production%20LLM%20Systems&descAlign=50&descAlignY=55&descSize=25)](https://github.com/chris-kechagias)
+[![Header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=12,14,16&text=AI%20Engineer&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Building%20LLM%20Systems&descAlign=50&descAlignY=55&descSize=25)](https://github.com/chris-kechagias)
 
 <div align="center">
 
